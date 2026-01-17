@@ -1,1 +1,0 @@
-console.log("what is your name? Are you the fastest man alive?")
