@@ -43,4 +43,4 @@ app.use(express.static('public'));
 // Start server
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
-});
+}); // pls, I didn,t really understand how to use the HTML for Post request, as such I can only run it on thunder client. I hope it is covered in the next class
